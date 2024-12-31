@@ -1,5 +1,3 @@
-# 5230411219_Hakiki_Faturrahman_Responsi_pbo
-
 Aplikasi ini adalah sistem manajemen produk dan transaksi berbasis GUI menggunakan Python (dengan pustaka tkinter) dan MySQL sebagai basis data. Aplikasi ini mendukung operasi CRUD (Create, Read, Update, Delete) untuk produk dan transaksi. Pengguna dapat mengelola data produk, menambah transaksi, serta memantau stok produk secara otomatis.
 
 Fitur Produk:
